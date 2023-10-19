@@ -1,5 +1,0 @@
-<?php
-
-$prova;
-
-$prova = "aaaa";
